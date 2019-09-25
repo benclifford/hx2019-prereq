@@ -26,7 +26,7 @@ library:
   source-dirs: src
 
 executables:
-  hx2019-prereq-exe:
+  check-tutorial:
     main:                Main.hs
     source-dirs:         app
     ghc-options:

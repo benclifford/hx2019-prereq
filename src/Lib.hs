@@ -3,4 +3,4 @@ module Lib
     ) where
 
 someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+someFunc = putStrLn "Congratulations! Haskell eXchange 2019 tutorial setup is complete."
