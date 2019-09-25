@@ -35,6 +35,9 @@ executables:
     - -with-rtsopts=-N
     dependencies:
     - hx2019-prereq
+    - ansi-terminal
+    - directory
+    - optparse-applicative
 
 tests:
   hx2019-prereq-test:
