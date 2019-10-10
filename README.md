@@ -37,3 +37,5 @@ Haskell packages that are needed during the tutorial. This will save
 time when you come to use them during the tutorial so that you do not
 need to download them over the Haskell eXchange wifi. So please follow
 these steps even if you know your 'stack' installation already works.
+
+You can find the speakers notes for the tutorial at: https://github.com/benclifford/hx2019
