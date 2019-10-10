@@ -38,6 +38,7 @@ executables:
     - ansi-terminal
     - directory
     - optparse-applicative
+    - mtl
 
 tests:
   hx2019-prereq-test:
